@@ -1,0 +1,106 @@
+body{
+
+    background-color:purple ;
+    /* background-image: image(images/bg.svg); */
+}
+.ima{
+    margin-right: 2em;
+}
+.fb{
+    float: right;
+    width: 30px;
+    height: 30px;
+}
+.ig{
+    float: right;
+    width: 30px;
+    height: 30px;
+}
+.twit{
+    float: right;
+    width: 30px;
+    height: 30px;
+}
+.bgimg{
+    float: left;
+    width: 200px;
+    margin-top: 4%;
+    margin-left: 5%;
+}
+.img{
+    width: 40%;
+    float: left;
+    margin-left: -15%;
+    margin-top: 10%;
+}
+.fixed-top{
+    width: 40%;
+    margin-left: 2em;
+    margin-top: 10em;
+    position: absolute;
+    float:left;
+}
+.big{
+    width: 40%;
+    height: 60%;
+    background-color: white;
+    color: slategrey;
+    margin-left: 2em;
+    margin-top: 10em;
+    float: left;
+}
+.fixed-top1{
+    width: 20%;
+    margin-left: 24em;
+    margin-top: 20em;
+    position: absolute;
+    /* float:left; */
+    
+}
+
+.small{
+    width: 90%;
+    height: 60%;
+    background-color: white;
+    z-index: 10;
+    margin: 20px;
+    /* float: left; */
+    margin-top: -30;
+    margin-right: 33em;
+
+}
+h1{
+    color: seashell;
+    margin-left: 30px;
+} 
+h2{
+    color:seashell;
+    width: 350px;
+    margin-left: 50%;
+    padding-top: 15%;
+
+}
+p{
+    color: white;
+    width: 430px;
+    margin-left: 50%;
+    /* margin-top: 5%; */
+    /* margin-bottom: 5%; */
+
+
+}
+.bt1{
+    border-radius: 20px;
+    background-color: white;
+    color:purple;
+    margin-left: 50%;
+    width: 10em;
+    height: 3em;
+    margin-top: -11%;
+    border:white;
+
+}
+button{
+    margin-left: 75%;
+
+}  

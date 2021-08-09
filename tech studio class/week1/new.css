@@ -1,0 +1,47 @@
+body{
+  background-image: url(images/logo.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  
+}
+h1 {
+  color:red;
+  background-color:Black;
+}
+ h2 {
+  color: blue;
+  background-color:Black;
+}
+p {
+  color: yellow;
+  word-spacing: 10px;
+  letter-spacing: 10px;
+
+}
+.bord{
+  border-style: dotted;
+  border-width: 10px;
+  border-color: pink;
+}
+img{
+  border-style: solid;
+  border-radius: 5px;
+  width: 400px;
+  height: 100px;
+  color: blueviolet;
+}
+button{
+  background-color: blue;
+  color: chartreuse;
+  border-style: solid;
+  width:200px;
+  height: 50;
+  border-radius: 10px;
+}
+
+.link {
+  color:purple;
+  background-color:green;
+  letter-spacing:10px;
+}

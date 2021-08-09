@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+p{
+    text-align: center;
+}
+div{
+    margin: auto;
+    width: 20%;
+}
+.first{
+    margin-top: 10%;
+    /* width: 100px; */
+}
+.name{
+    padding-left: 25%;
+
+    font-size: 38px;
+    /* padding-top: 2em; */
+    margin-top: 1px;
+}
+.and{
+    font-size: 10px;
+    padding-right:3em ;
+    /* padding-top: 2em; */
+    margin-bottom: 1px;
+}
+.img{
+    float: left;
+    background-color: black;
+    color: white;
+}
+.sec{
+    margin-top: 4%;
+    border: 3px solid white;
+    border-radius: 13px;
+    height: 6em;
+}
+.app{
+    font-weight:bold;
+    /* width: 300px; */
+    padding-left: 35%;
+    font-size: 200%;
+    margin-top: 1px;
+}
+
+.ava{
+    padding-left: 15%;
+    font-size: 100%;
+    margin-bottom: 1px;
+    /* margin-top: 1em; */
+}
+.last{
+    margin-top: 5%;
+    padding-left: 2%;
+    /* width: 50%; */
+}
+.www{
+    font-weight: bolder;
+    font-size: 230%;
+}

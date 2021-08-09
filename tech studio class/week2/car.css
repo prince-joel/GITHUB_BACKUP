@@ -1,0 +1,31 @@
+.sec1{
+    background-color:hsl(31, 77%, 52%);
+    width: 300px;
+    float: left;
+    height: 60%;
+}
+.sec2{
+    background-color: hsl(184, 100%, 22%);
+    width: 300px;
+    float: left;
+    height: 60%;
+}
+.sec3{
+    background-color: hsl(179, 100%, 13%);
+    width: 300px;
+    float: left;
+    height: 60%;
+}
+.word{
+    padding-left: 1em;
+    padding-top: 3em;
+    font-size: 20px;
+    color: seashell;
+}
+.par{
+    text-align:center;
+}
+.main{
+    grid-auto-columns: max-content;
+    margin: auto;
+}
